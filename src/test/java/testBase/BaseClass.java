@@ -39,7 +39,7 @@ public class BaseClass {
 
     @BeforeClass(groups={"Sanity","Regression","Master"})
     @Parameters({"os","browser"})
-    public void setUp(@Optional("default") String os, String br) throws IOException {
+    public void setUp(@Optional("default") String os, @Optional("default") String br) throws IOException {
         logger=LogManager.getLogger(this.getClass());
 
         FileReader file=new FileReader("./src//test//resources//config.properties");
