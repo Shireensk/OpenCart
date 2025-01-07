@@ -395,3 +395,34 @@
 12:01:819:819[main]INFO testCase.TC001_AccountRegistrationTest-**** Finished TC001_AccountRegistrationTest ****
 12:01:452:452[main]INFO testCase.TC002_LoginTest-**** starting TC002_LoginTest ****
 12:01:833:833[main]INFO testCase.TC002_LoginTest-****Finished TC002_LoginTest***
+13:01:101:101[TestNG-tests-1]INFO testCase.TC001_AccountRegistrationTest-**** starting TC001_AccountRegistrationTest ****
+13:01:101:101[TestNG-tests-2]INFO testCase.TC001_AccountRegistrationTest-**** starting TC001_AccountRegistrationTest ****
+13:01:841:841[TestNG-tests-2]INFO testCase.TC001_AccountRegistrationTest-Clicked on Register Link
+13:01:845:845[TestNG-tests-1]INFO testCase.TC001_AccountRegistrationTest-Clicked on Register Link
+13:01:845:845[TestNG-tests-2]INFO testCase.TC001_AccountRegistrationTest-Providing Customer details.....
+13:01:846:846[TestNG-tests-1]INFO testCase.TC001_AccountRegistrationTest-Providing Customer details.....
+13:01:500:500[TestNG-tests-1]INFO testCase.TC001_AccountRegistrationTest-Validating expected message....
+13:01:603:603[TestNG-tests-2]INFO testCase.TC001_AccountRegistrationTest-Validating expected message....
+13:01:664:664[TestNG-tests-1]INFO testCase.TC001_AccountRegistrationTest-**** Finished TC001_AccountRegistrationTest ****
+13:01:729:729[TestNG-tests-2]INFO testCase.TC001_AccountRegistrationTest-**** Finished TC001_AccountRegistrationTest ****
+13:01:142:142[main]INFO testCase.TC001_AccountRegistrationTest-**** starting TC001_AccountRegistrationTest ****
+13:01:722:722[main]INFO testCase.TC001_AccountRegistrationTest-Clicked on Register Link
+13:01:724:724[main]INFO testCase.TC001_AccountRegistrationTest-Providing Customer details.....
+13:01:928:928[main]INFO testCase.TC001_AccountRegistrationTest-Validating expected message....
+13:01:34:034[main]INFO testCase.TC001_AccountRegistrationTest-**** Finished TC001_AccountRegistrationTest ****
+13:01:456:456[main]INFO testCase.TC002_LoginTest-**** starting TC002_LoginTest ****
+13:01:882:882[main]INFO testCase.TC002_LoginTest-****Finished TC002_LoginTest***
+13:01:806:806[TestNG-tests-1]INFO testCase.TC001_AccountRegistrationTest-**** starting TC001_AccountRegistrationTest ****
+13:01:972:972[TestNG-tests-2]INFO testCase.TC001_AccountRegistrationTest-**** starting TC001_AccountRegistrationTest ****
+13:01:614:614[TestNG-tests-1]INFO testCase.TC001_AccountRegistrationTest-Clicked on Register Link
+13:01:619:619[TestNG-tests-1]INFO testCase.TC001_AccountRegistrationTest-Providing Customer details.....
+13:01:683:683[TestNG-tests-2]INFO testCase.TC001_AccountRegistrationTest-Clicked on Register Link
+13:01:684:684[TestNG-tests-2]INFO testCase.TC001_AccountRegistrationTest-Providing Customer details.....
+13:01:391:391[TestNG-tests-1]INFO testCase.TC001_AccountRegistrationTest-Validating expected message....
+13:01:446:446[TestNG-tests-2]INFO testCase.TC001_AccountRegistrationTest-Validating expected message....
+13:01:535:535[TestNG-tests-2]INFO testCase.TC001_AccountRegistrationTest-**** Finished TC001_AccountRegistrationTest ****
+13:01:535:535[TestNG-tests-1]INFO testCase.TC001_AccountRegistrationTest-**** Finished TC001_AccountRegistrationTest ****
+13:01:407:407[TestNG-tests-1]INFO testCase.TC002_LoginTest-**** starting TC002_LoginTest ****
+13:01:950:950[TestNG-tests-2]INFO testCase.TC002_LoginTest-**** starting TC002_LoginTest ****
+13:01:338:338[TestNG-tests-1]INFO testCase.TC002_LoginTest-****Finished TC002_LoginTest***
+13:01:454:454[TestNG-tests-2]INFO testCase.TC002_LoginTest-****Finished TC002_LoginTest***
