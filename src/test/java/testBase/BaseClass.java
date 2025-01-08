@@ -105,7 +105,14 @@ public class BaseClass {
     @AfterClass(groups={"Sanity","Regression","Master"})
     public void tearDown()
     {
-        driver.quit();
+        if (driver != null)
+        {
+            driver.quit();
+        }
+        else
+        {
+            logger.warn("Driver is not initialized. Skipping quit.");
+        }
     }
 
     public String randomNumber()
