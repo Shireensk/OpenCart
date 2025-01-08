@@ -54,8 +54,8 @@ public class BaseClass {
             switch (os.toLowerCase())
             {
                 case "windows":capabilities.setPlatform(Platform.WIN10); break;
-                case "mac":capabilities.setPlatform(Platform.MAC);
-                case "linux":capabilities.setPlatform(Platform.LINUX);
+                case "mac":capabilities.setPlatform(Platform.MAC); break;
+                case "linux":capabilities.setPlatform(Platform.LINUX); break;
                 default:System.out.println("No matching os"); return;
 
             }
@@ -141,6 +141,8 @@ public class BaseClass {
         File sourcefile=takescreenshot.getScreenshotAs(OutputType.FILE);
 
         String targetFilePath=System.getProperty("user.dir"+"\\screenshots\\"+tname+" "+timestamp+".png");
+
+        //String targetFilePath = "D:\\Selenium Project\\opencart\\screenshots\\" + tname + " " + timestamp + ".png";
 
         //String targetFilePath=System.getProperty("user.dir"+File.separator+"screenshots"+File.separator+tname+" "+timestamp+".png");
 
