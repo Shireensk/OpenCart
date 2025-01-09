@@ -19,11 +19,9 @@ import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.net.URL;
-import java.nio.file.Files;
 import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.util.Date;
@@ -31,7 +29,7 @@ import java.util.Properties;
 
 public class BaseClass {
 
-    public WebDriver driver;
+    public static WebDriver driver;
 
     public Logger logger;
 
@@ -39,7 +37,7 @@ public class BaseClass {
 
     @BeforeClass(groups={"Sanity","Regression","Master"})
     @Parameters({"os","browser"})
-    public void setUp(@Optional("default") String os, @Optional("default") String br) throws IOException {
+    public void setUp(@Optional("windows") String os, @Optional("chrome") String br) throws IOException {
         logger=LogManager.getLogger(this.getClass());
 
         FileReader file=new FileReader("./src//test//resources//config.properties");
@@ -140,7 +138,7 @@ public class BaseClass {
         TakesScreenshot takescreenshot=(TakesScreenshot) driver;
         File sourcefile=takescreenshot.getScreenshotAs(OutputType.FILE);
 
-        String targetFilePath=System.getProperty("user.dir"+"\\screenshots\\"+tname+" "+timestamp+".png");
+        String targetFilePath=System.getProperty("user.dir")+"\\screenshots\\"+tname+"_"+timestamp+".png";
 
         //String targetFilePath = "D:\\Selenium Project\\opencart\\screenshots\\" + tname + " " + timestamp + ".png";
 

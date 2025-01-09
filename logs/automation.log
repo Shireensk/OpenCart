@@ -57,3 +57,94 @@
 17:01:88:088[main]INFO testCase.TC001_AccountRegistrationTest-**** Finished TC001_AccountRegistrationTest ****
 17:01:503:503[main]INFO testCase.TC002_LoginTest-**** starting TC002_LoginTest ****
 17:01:93:093[main]INFO testCase.TC002_LoginTest-****Finished TC002_LoginTest***
+17:01:574:574[main]INFO testCase.TC002_LoginTest-**** starting TC002_LoginTest ****
+17:01:605:605[main]WARN testCase.TC002_LoginTest-Driver is not initialized. Skipping quit.
+17:01:168:168[main]INFO testCase.TC002_LoginTest-**** starting TC002_LoginTest ****
+17:01:215:215[main]WARN testCase.TC002_LoginTest-Driver is not initialized. Skipping quit.
+17:01:65:065[main]INFO testCase.TC002_LoginTest-**** starting TC002_LoginTest ****
+17:01:97:097[main]WARN testCase.TC002_LoginTest-Driver is not initialized. Skipping quit.
+17:01:950:950[main]INFO testCase.TC001_AccountRegistrationTest-**** starting TC001_AccountRegistrationTest ****
+17:01:997:997[main]WARN testCase.TC001_AccountRegistrationTest-Driver is not initialized. Skipping quit.
+07:01:477:477[main]INFO testCase.TC002_LoginTest-**** starting TC002_LoginTest ****
+07:01:533:533[main]WARN testCase.TC002_LoginTest-Driver is not initialized. Skipping quit.
+07:01:450:450[main]INFO testCase.TC001_AccountRegistrationTest-**** starting TC001_AccountRegistrationTest ****
+07:01:983:983[main]WARN testCase.TC001_AccountRegistrationTest-Driver is not initialized. Skipping quit.
+07:01:777:777[main]INFO testCase.TC002_LoginTest-**** starting TC002_LoginTest ****
+07:01:825:825[main]WARN testCase.TC002_LoginTest-Driver is not initialized. Skipping quit.
+07:01:67:067[main]INFO testCase.TC002_LoginTest-**** starting TC002_LoginTest ****
+07:01:698:698[main]INFO testCase.TC002_LoginTest-****Finished TC002_LoginTest***
+07:01:886:886[main]INFO testCase.TC001_AccountRegistrationTest-**** starting TC001_AccountRegistrationTest ****
+07:01:437:437[main]INFO testCase.TC001_AccountRegistrationTest-Clicked on Register Link
+07:01:441:441[main]INFO testCase.TC001_AccountRegistrationTest-Providing Customer details.....
+07:01:48:048[main]INFO testCase.TC001_AccountRegistrationTest-Validating expected message....
+07:01:226:226[main]INFO testCase.TC001_AccountRegistrationTest-**** Finished TC001_AccountRegistrationTest ****
+07:01:625:625[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+07:01:634:634[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:01:634:634[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+07:01:543:543[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+07:01:543:543[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:01:543:543[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+07:01:614:614[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+07:01:630:630[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:01:630:630[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+07:01:696:696[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+07:01:709:709[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:01:710:710[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+07:01:748:748[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+07:01:748:748[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:01:756:756[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+07:01:798:798[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+07:01:806:806[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:01:807:807[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+07:01:855:855[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+07:01:857:857[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:01:858:858[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+07:01:897:897[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+07:01:905:905[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:01:907:907[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+07:01:948:948[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+07:01:948:948[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:01:948:948[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+07:01:994:994[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+07:01:994:994[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:01:994:994[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+07:01:44:044[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+07:01:59:059[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:01:61:061[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+07:01:93:093[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+07:01:93:093[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:01:93:093[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+07:01:142:142[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+07:01:143:143[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:01:143:143[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+07:01:175:175[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/_rels/workbook.xml.rels
+07:01:175:175[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:01:175:175[main]DEBUGorg.apache.poi.openxml4j.opc.PackageRelationshipCollection-Parsing relationship: /_rels/.rels
+07:01:237:237[main]INFO testCase.TC003_LoginDDT-*** Starting TC003_LoginDDT ***
+07:01:498:498[main]INFO testCase.TC003_LoginDDT-**** Finished TC003_LoginDDT ****
+07:01:513:513[main]INFO testCase.TC003_LoginDDT-*** Starting TC003_LoginDDT ***
+07:01:426:426[main]INFO testCase.TC003_LoginDDT-**** Finished TC003_LoginDDT ****
+07:01:442:442[main]INFO testCase.TC003_LoginDDT-*** Starting TC003_LoginDDT ***
+07:01:245:245[main]INFO testCase.TC003_LoginDDT-**** Finished TC003_LoginDDT ****
+07:01:245:245[main]INFO testCase.TC003_LoginDDT-*** Starting TC003_LoginDDT ***
+07:01:765:765[main]INFO testCase.TC003_LoginDDT-**** Finished TC003_LoginDDT ****
+07:01:357:357[main]INFO testCase.TC001_AccountRegistrationTest-**** starting TC001_AccountRegistrationTest ****
+07:01:883:883[main]INFO testCase.TC001_AccountRegistrationTest-Clicked on Register Link
+07:01:886:886[main]INFO testCase.TC001_AccountRegistrationTest-Providing Customer details.....
+07:01:286:286[main]INFO testCase.TC001_AccountRegistrationTest-Validating expected message....
+07:01:407:407[main]INFO testCase.TC001_AccountRegistrationTest-**** Finished TC001_AccountRegistrationTest ****
+07:01:966:966[main]INFO testCase.TC002_LoginTest-**** starting TC002_LoginTest ****
+07:01:496:496[main]INFO testCase.TC002_LoginTest-****Finished TC002_LoginTest***
+07:01:275:275[main]INFO testCase.TC001_AccountRegistrationTest-**** starting TC001_AccountRegistrationTest ****
+07:01:860:860[main]INFO testCase.TC001_AccountRegistrationTest-Clicked on Register Link
+07:01:865:865[main]INFO testCase.TC001_AccountRegistrationTest-Providing Customer details.....
+07:01:558:558[main]INFO testCase.TC001_AccountRegistrationTest-Validating expected message....
+07:01:729:729[main]INFO testCase.TC001_AccountRegistrationTest-**** Finished TC001_AccountRegistrationTest ****
+07:01:276:276[main]INFO testCase.TC002_LoginTest-**** starting TC002_LoginTest ****
+07:01:47:047[main]INFO testCase.TC002_LoginTest-****Finished TC002_LoginTest***
+08:01:665:665[main]INFO testCase.TC001_AccountRegistrationTest-**** starting TC001_AccountRegistrationTest ****
+08:01:243:243[main]INFO testCase.TC001_AccountRegistrationTest-Clicked on Register Link
+08:01:247:247[main]INFO testCase.TC001_AccountRegistrationTest-Providing Customer details.....
+08:01:651:651[main]INFO testCase.TC001_AccountRegistrationTest-Validating expected message....
+08:01:773:773[main]ERRORtestCase.TC001_AccountRegistrationTest-Test failed....
+08:01:773:773[main]DEBUGtestCase.TC001_AccountRegistrationTest-Debug logs......
